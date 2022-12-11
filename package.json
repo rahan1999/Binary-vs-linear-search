@@ -1,0 +1,11 @@
+{
+  "name": "binary-vs-linear-search",
+  "version": "1.0.0",
+  "description": "Comparing binary and linear search methods. Output in console. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Podolak",
+  "license": "ISC"
+}
